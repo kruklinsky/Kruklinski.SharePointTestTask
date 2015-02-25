@@ -1,0 +1,24 @@
+﻿@section links
+{
+    @Styles.Render("~/Content/testListTable/css")
+}
+@section scripts
+{
+    @Scripts.Render("~/Content/testListTable/js")
+}
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="testList">
+    <div class="testList__title">
+        Test list:
+    </div>
+    <div class="testList__table" id="testListTable">
+    </div>
+    <div class="testList__load-button">
+        <input class="testList__load-button__input" type="submit" value="Load" id="testListTableLoadButton" />
+    </div>
+    <div class="testList__load-error" id="testListTableLoadError">
+    </div>
+</div>

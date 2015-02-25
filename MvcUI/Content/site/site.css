@@ -1,0 +1,84 @@
+﻿
+
+/* Styles for basic forms
+-----------------------------------------------------------*/
+fieldset {
+    border: 1px solid #ddd;
+    padding: 0 1.4em 1.4em 1.4em;
+    margin: 0 0 1.5em 0;
+}
+
+legend {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+textarea {
+    min-height: 75px;
+}
+
+.editor-label {
+    margin: 1em 0 0 0;
+}
+
+.editor-field {
+    margin: 0.5em 0 0 0;
+}
+
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error {
+    color: #f00;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+.input-validation-error {
+    border: 1px solid #f00;
+    background-color: #fee;
+}
+
+.validation-summary-errors {
+    font-weight: bold;
+    color: #f00;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+.page {
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url(images\\background.png);
+    background-color: rgb(0,162,232);
+    margin: 10px 10px 20px;
+}
+
+DIV#page__layout {
+    min-width: 300px;
+    padding: 0px;
+    margin: 0px auto;
+    position: relative;
+    z-index: 6;
+    width: 80%;
+}
+
+DIV#header {
+    background-color:#353535;
+    border-bottom: 2px solid #111;
+    color: White;
+}
+.header__title {
+        font-size: 2em;
+        padding: .6em;
+}
+#content {
+    background-color:#353535;
+}
+
+

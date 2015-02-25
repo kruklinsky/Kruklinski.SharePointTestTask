@@ -1,0 +1,4 @@
+C:\Users\Александр\Desktop\Kruklinski.SharePointTestTask\BLL.Interface\bin\Debug\BLL.Interface.dll
+C:\Users\Александр\Desktop\Kruklinski.SharePointTestTask\BLL.Interface\bin\Debug\BLL.Interface.pdb
+C:\Users\Александр\Desktop\Kruklinski.SharePointTestTask\BLL.Interface\obj\Debug\BLL.Interface.dll
+C:\Users\Александр\Desktop\Kruklinski.SharePointTestTask\BLL.Interface\obj\Debug\BLL.Interface.pdb

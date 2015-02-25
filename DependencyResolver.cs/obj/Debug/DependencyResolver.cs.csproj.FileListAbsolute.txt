@@ -1,0 +1,11 @@
+C:\Users\Александр\Desktop\Kruklinski.SharePointTestTask\DependencyResolver.cs\bin\Debug\DependencyResolver.cs.dll
+C:\Users\Александр\Desktop\Kruklinski.SharePointTestTask\DependencyResolver.cs\bin\Debug\DependencyResolver.cs.pdb
+C:\Users\Александр\Desktop\Kruklinski.SharePointTestTask\DependencyResolver.cs\bin\Debug\BLL.dll
+C:\Users\Александр\Desktop\Kruklinski.SharePointTestTask\DependencyResolver.cs\bin\Debug\BLL.Interface.dll
+C:\Users\Александр\Desktop\Kruklinski.SharePointTestTask\DependencyResolver.cs\bin\Debug\Ninject.dll
+C:\Users\Александр\Desktop\Kruklinski.SharePointTestTask\DependencyResolver.cs\bin\Debug\BLL.Interface.pdb
+C:\Users\Александр\Desktop\Kruklinski.SharePointTestTask\DependencyResolver.cs\bin\Debug\BLL.pdb
+C:\Users\Александр\Desktop\Kruklinski.SharePointTestTask\DependencyResolver.cs\bin\Debug\Ninject.xml
+C:\Users\Александр\Desktop\Kruklinski.SharePointTestTask\DependencyResolver.cs\obj\Debug\DependencyResolver.cs.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Kruklinski.SharePointTestTask\DependencyResolver.cs\obj\Debug\DependencyResolver.cs.dll
+C:\Users\Александр\Desktop\Kruklinski.SharePointTestTask\DependencyResolver.cs\obj\Debug\DependencyResolver.cs.pdb
