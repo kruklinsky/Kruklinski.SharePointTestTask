@@ -1,0 +1,5 @@
+Features
+- Business logic layer and dependency injection
+- Async access to REST service (SharePoint)
+- Exceptions handling and logging
+- Ajax queries
